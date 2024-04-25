@@ -1,0 +1,225 @@
+{
+  "id": 26096,
+  "subLemmaId": 7373792,
+  "newLemmaId": 27263,
+  "key": "银魂",
+  "desc": "空知英秋创作的漫画",
+  "title": "银魂",
+  "card": [
+    {
+      "key": "m21_bookname",
+      "name": "中文名",
+      "value": [
+        "银魂"
+      ],
+      "format": [
+        "银魂"
+      ]
+    },
+    {
+      "key": "m21_originalname",
+      "name": "原版名称",
+      "value": [
+        "銀魂"
+      ],
+      "format": [
+        "銀魂"
+      ]
+    },
+    {
+      "key": "m21_alternateName",
+      "name": "别名",
+      "value": [
+        "GINTAMA、ぎんたま"
+      ],
+      "format": [
+        "GINTAMA、ぎんたま"
+      ]
+    },
+    {
+      "key": "m21_author",
+      "name": "作者",
+      "value": [
+        "空知英秋"
+      ],
+      "format": [
+        "空知英秋"
+      ]
+    },
+    {
+      "key": "m21_booktype",
+      "name": "类型",
+      "value": [
+        "幕末、搞笑、科幻、动作"
+      ],
+      "format": [
+        "幕末、搞笑、科幻、动作"
+      ]
+    },
+    {
+      "key": "m21_bookregion",
+      "name": "地区",
+      "value": [
+        "日本"
+      ],
+      "format": [
+        "日本"
+      ]
+    },
+    {
+      "key": "m21_seriesmagazine",
+      "name": "连载杂志",
+      "value": [
+        "《周刊少年JUMP》、《JUMP GIGA》"
+      ],
+      "format": [
+        "《周刊少年JUMP》、《JUMP GIGA》"
+      ]
+    },
+    {
+      "key": "m21_seriesnum",
+      "name": "揭载号",
+      "value": [
+        "2004年2号"
+      ],
+      "format": [
+        "2004年2号"
+      ]
+    },
+    {
+      "key": "m21_publishperiod",
+      "name": "出版期间",
+      "value": [
+        "2004年4月－2019年1月4日"
+      ],
+      "format": [
+        "2004年4月－2019年1月4日"
+      ]
+    },
+    {
+      "key": "m21_volumes",
+      "name": "单行本册数",
+      "value": [
+        "77 卷<sup>26</sup><a name=\"ref_26\"></a>"
+      ],
+      "format": [
+        "77 卷<sup>26</sup><a name=\"ref_26\"></a>"
+      ]
+    },
+    {
+      "key": "m21_press",
+      "name": "出版社",
+      "value": [
+        "集英社"
+      ],
+      "format": [
+        "集英社"
+      ]
+    },
+    {
+      "key": "m21_otherpress",
+      "name": "其他出版社",
+      "value": [
+        "中国台湾：<a target=_blank href=\"/item/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE/10443869\" data-lemmaid=\"10443869\">东立出版社</a>",
+        "中国香港：<a target=_blank href=\"/item/%E6%AD%A3%E6%96%87%E7%A4%BE/1134181\" data-lemmaid=\"1134181\">正文社</a>",
+        "中国大陆：<a target=_blank href=\"/item/%E8%BF%9E%E7%8E%AF%E7%94%BB%E5%87%BA%E7%89%88%E7%A4%BE/16632344\" data-lemmaid=\"16632344\">连环画出版社</a>（出版）、北京中少动漫（发行）",
+        "新加坡：创艺出版社"
+      ],
+      "format": [
+        "中国台湾：<a target=_blank href=\"/item/%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE/10443869\" data-lemmaid=\"10443869\">东立出版社</a>",
+        "中国香港：<a target=_blank href=\"/item/%E6%AD%A3%E6%96%87%E7%A4%BE/1134181\" data-lemmaid=\"1134181\">正文社</a>",
+        "中国大陆：<a target=_blank href=\"/item/%E8%BF%9E%E7%8E%AF%E7%94%BB%E5%87%BA%E7%89%88%E7%A4%BE/16632344\" data-lemmaid=\"16632344\">连环画出版社</a>（出版）、北京中少动漫（发行）",
+        "新加坡：创艺出版社"
+      ]
+    },
+    {
+      "key": "m21_customDefault",
+      "name": "网络连载",
+      "value": [
+        "<a target=_blank href=\"/item/%E8%85%BE%E8%AE%AF%E5%8A%A8%E6%BC%AB/363238\" data-lemmaid=\"363238\">腾讯动漫</a>（中国大陆）、<a target=_blank href=\"/item/%E6%BC%AB%E7%95%AA%E6%BC%AB%E7%94%BB/23502599\" data-lemmaid=\"23502599\">漫番漫画</a>（中国大陆）、<a target=_blank href=\"/item/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB/23525597\" data-lemmaid=\"23525597\">哔哩哔哩漫画</a><sup>2</sup><a name=\"ref_2\"></a>"
+      ],
+      "format": [
+        "<a target=_blank href=\"/item/%E8%85%BE%E8%AE%AF%E5%8A%A8%E6%BC%AB/363238\" data-lemmaid=\"363238\">腾讯动漫</a>（中国大陆）、<a target=_blank href=\"/item/%E6%BC%AB%E7%95%AA%E6%BC%AB%E7%94%BB/23502599\" data-lemmaid=\"23502599\">漫番漫画</a>（中国大陆）、<a target=_blank href=\"/item/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB/23525597\" data-lemmaid=\"23525597\">哔哩哔哩漫画</a><sup>2</sup><a name=\"ref_2\"></a>"
+      ]
+    },
+    {
+      "key": "m21_customDefault",
+      "name": "JUMP连载",
+      "value": [
+        "2003年12月8日-2018年9月15日"
+      ],
+      "format": [
+        "2003年12月8日-2018年9月15日"
+      ]
+    },
+    {
+      "key": "m21_customDefault",
+      "name": "GIGA连载",
+      "value": [
+        "2018年12月28日-2019年2月22日"
+      ],
+      "format": [
+        "2018年12月28日-2019年2月22日"
+      ]
+    },
+    {
+      "key": "m21_customDefault",
+      "name": "APP连载",
+      "value": [
+        "2019年5月13日-6月20日"
+      ],
+      "format": [
+        "2019年5月13日-6月20日"
+      ]
+    }
+  ],
+  "image": "https://bkimg.cdn.bcebos.com/pic/10dfa9ec8a13632745a402369e8fa0ec08fac76e?x-bce-process=image/format,f_auto",
+  "src": "10dfa9ec8a13632745a402369e8fa0ec08fac76e",
+  "imageHeight": 1859,
+  "imageWidth": 1200,
+  "isSummaryPic": "y",
+  "abstract": "《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP GIGA》2019 WINTER vol.1~vol.3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。2006年4月4日起，由日升动画改编的同名电视动画开始在东京电视台放送。截至2018年8月，《银魂》日本国内单行本累计发行量突破5500万册。",
+  "moduleIds": [
+    3000606332,
+    3000606333,
+    3000606334,
+    3000606335,
+    3000606336,
+    3000606337,
+    3000606338,
+    3000606339,
+    3000606340,
+    3000606341,
+    3000606342,
+    3000606343,
+    3000606344,
+    3000606345,
+    3000606346,
+    3000606347,
+    3000606348,
+    3000606349,
+    3000606350,
+    3000606351,
+    3000606386
+  ],
+  "url": "http://baike.baidu.com/subview/26096/7373792.htm",
+  "wapUrl": "http://wapbaike.baidu.com/item/%E9%93%B6%E9%AD%82/27263",
+  "hasOther": 1,
+  "totalUrl": "http://baike.baidu.com/view/26096.htm",
+  "catalog": [
+    "<a href='http://baike.baidu.com/subview/26096/7373792.htm#1'>创作背景</a>",
+    "<a href='http://baike.baidu.com/subview/26096/7373792.htm#2'>剧情简介</a>",
+    "<a href='http://baike.baidu.com/subview/26096/7373792.htm#3'>登场角色</a>",
+    "<a href='http://baike.baidu.com/subview/26096/7373792.htm#4'>用语解说</a>"
+  ],
+  "wapCatalog": [
+    "<a href='http://wapbaike.baidu.com/item/%E9%93%B6%E9%AD%82/27263#1'>创作背景</a>",
+    "<a href='http://wapbaike.baidu.com/item/%E9%93%B6%E9%AD%82/27263#2'>剧情简介</a>",
+    "<a href='http://wapbaike.baidu.com/item/%E9%93%B6%E9%AD%82/27263#3'>登场角色</a>",
+    "<a href='http://wapbaike.baidu.com/item/%E9%93%B6%E9%AD%82/27263#4'>用语解说</a>"
+  ],
+  "logo": "https://img.baidu.com/img/baike/logo-baike.gif",
+  "copyrights": "以上内容来自百度百科平台，由百度百科网友创作。",
+  "customImg": "",
+  "redirect": []
+}

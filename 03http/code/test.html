@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        table, th, td {
+            border-collapse: collapse;
+        }
+
+        table tr th, td {
+            border: 1px solid black;
+            width: 50px;
+            text-align: center;
+        }
+
+        table tr:nth-child(odd) {
+            background-color: skyblue;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+        <th>性别</th>
+    </tr>
+    <tr>
+        <td>小明</td>
+        <td>18</td>
+        <td>男</td>
+    </tr>
+    <tr>
+        <td>小明</td>
+        <td>18</td>
+        <td>男</td>
+    </tr>
+    <tr>
+        <td>小明</td>
+        <td>18</td>
+        <td>男</td>
+    </tr>
+    <tr>
+        <td>小明</td>
+        <td>18</td>
+        <td>男</td>
+    </tr>
+    <script>
+        let ths = document.querySelectorAll("table tr th, td");
+        ths.forEach((th) => {
+            th.addEventListener("click", function () {
+                ths.forEach((item) => {
+                    item.style.background = "";
+                });
+                this.style.background = "red";
+            });
+        });
+    </script>
+</table>
+</body>
+</html>

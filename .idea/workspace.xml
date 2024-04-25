@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cade25ee-fa00-4260-86c9-eecb342b08fc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/WebStorm2024.1/javascript/typings/node/17.0.45/node_modules/@types/node/globals.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/node/globals.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fXHgFvBfkxRqFNPwhAF0Z9R96Z" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.01http.js.executor": "Run",
+    "Node.js.02_获取http请求体.js.executor": "Run",
+    "Node.js.03_提取http响应体.js.executor": "Run",
+    "Node.js.04_提取请求中的url.js.executor": "Run",
+    "Node.js.05_提取请求中的url_new.js.executor": "Run",
+    "Node.js.06_设置响应报文.js.executor": "Run",
+    "Node.js.07_设置响应结果.js.executor": "Run",
+    "Node.js.08_发送请求.js.executor": "Run",
+    "Node.js.1-创建文件夹.js.executor": "Run",
+    "Node.js.2-stat.js.executor": "Run",
+    "Node.js.array.js.executor": "Run",
+    "Node.js.copy_file.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.me.js.executor": "Run",
+    "Node.js.read_file.js.executor": "Run",
+    "Node.js.rename.js.executor": "Run",
+    "Node.js.server.js.executor": "Run",
+    "Node.js.stream_copy_file.js.executor": "Run",
+    "Node.js.test.js.executor": "Run",
+    "Node.js.test1.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "javascript.nodejs.core.library.configured.version": "17.9.1",
+    "javascript.nodejs.core.library.typings.version": "17.0.45",
+    "last_opened_file_path": "D:/Program/Web/node_test/04_模块/2_模块暴露数据",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "ts.external.directory.path": "E:\\Program Files\\JetBrains\\Toolbox\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\Web\node_test\04_模块\2_模块暴露数据" />
+      <recent name="D:\Program\Web\node_test\03http\code" />
+      <recent name="D:\Program\Web\node_test\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cade25ee-fa00-4260-86c9-eecb342b08fc" name="Changes" comment="" />
+      <created>1713940611408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713940611408</updated>
+      <workItem from="1713940612534" duration="915000" />
+      <workItem from="1713941562587" duration="21416000" />
+      <workItem from="1713973730457" duration="2740000" />
+      <workItem from="1714015425834" duration="1010000" />
+      <workItem from="1714025209194" duration="9887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/02fs/code/stream_copy_file.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
